@@ -1,0 +1,157 @@
+.iconsmall{
+    width:80px;
+    height:auto;
+}
+
+.h1,
+.h2 {
+  text-align: center;
+}
+
+.h1 {
+  font-size: 2em;
+  color: var(--primary)
+}
+
+.h2 {
+  font-size: 1.5em;
+}
+.topLogo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height:100px;
+    padding-top: 1em;
+    background-color: var(--primary);
+}
+.notice {
+  text-align: center;
+  max-width: 65ch;
+  margin-right: auto;
+  margin-left: auto;
+}
+.icons {
+  display: flex;
+  justify-content: space-evenly;
+  margin: 3em 0;
+}
+.offerings {
+  margin: 3em auto;
+  display: grid;
+  grid-template-columns: 1fr 3fr;
+  .title {
+    grid-column: 1/3;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    .h3 {
+      display: inline-block;
+    }
+    .titleIcon {
+      margin-left: 1em;
+      width: 60px;
+      height: auto;
+    }
+  }
+  .eventGrid {
+    margin-top: 1em;
+    grid-column: 1/3;
+    justify-content: center;
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+    .strong {
+      font-family: "Proza Libre", sans-serif;
+      font-weight: bold;
+      color: black;
+      font-size: larger;
+    }
+
+    .level {
+      background-color: lightgray;
+      text-align: center;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      .h4 {
+        display: inline-block;
+        transform: rotate(-90deg);
+        padding: 1em;
+      }
+    }
+    .content {
+      padding: 1em;
+    }
+  }
+}
+
+.menuButton {
+    background-color: var(--primary);
+    color: white;
+    display: block;
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+    text-align: center;
+    padding: 1em 2em;
+    border-radius: 6px;
+    z-index: 100;
+    cursor: pointer;
+  }
+.active {
+display: block;
+}
+
+.inactive {
+display: none;
+}
+
+.flyingMenu{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+    width: 100%;
+    max-width: 300px;
+    padding: 0 8px 10px;
+    box-shadow: 0 0 20px rgb(0 0 0 / 15%);
+    z-index: 200;
+    overflow: auto;
+    background-color: var(--primary);
+
+    .ul {
+        width: 100%;
+        height: 100%;
+        margin-block-start: 0;
+        padding: 8px 0 8px;
+    }
+    .li {
+        display: flex;
+        flex-direction: column;
+        background-color: white;
+        text-align: center;
+        font-family: var(--titleFont);
+        margin-bottom: 8px;
+    }
+    .li:hover {
+        background-color: var(--grey-dark);
+        .a {
+            color: white;
+        }
+        }
+    .a {
+        text-decoration: none;
+        padding: 23px 0;
+        height: 100%;
+        color: var(--primary);
+    }
+    .active {
+        display: block;
+    }
+
+    .inactive {
+        display: none;
+    }
+}
