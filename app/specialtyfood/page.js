@@ -10,7 +10,7 @@ import vegan from "../images/icon-vegan.png";
 import halal from "../images/icon-halal.png";
 import kosher from "../images/icon-kosher.png";
 
-function specialtyfood() {
+function Specialtyfood() {
   const [menuState, setMenuState] = useState(false);
 
   function clickHandler() {
@@ -689,4 +689,4 @@ function specialtyfood() {
   );
 }
 
-export default specialtyfood;
+export default Specialtyfood;

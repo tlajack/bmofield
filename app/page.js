@@ -5,7 +5,7 @@ import bmofield from "./images/bmofield.svg";
 export default function Home() {
   return (
     <div>
-      <Image src={bmofield} />
+      <Image src={bmofield} alt="bmo field" />
     </div>
   );
 }
