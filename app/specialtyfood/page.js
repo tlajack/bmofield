@@ -82,6 +82,7 @@ function Specialtyfood() {
             <ul>
               <li>Porchetta Sandwich (Ask for Gluten Free Bun)</li>
               <li>Nacho Supreme (Ask for no Cheese Sauce)</li>
+              <li>Glazed Mushroom Focaccia (Ask for Gluten Free Bun)</li>
             </ul>
           </div>
         </div>
@@ -317,6 +318,7 @@ function Specialtyfood() {
               <li>Vegan Stadium Dog</li>
               <li>French Fries</li>
               <li>Nacho Supreme</li>
+              <li>Mozzarella Sticks</li>
             </ul>
 
             <p>
@@ -491,7 +493,7 @@ function Specialtyfood() {
               <li>The Burger (Ask for no Bacon Jam)</li>
               <li>Nacho Supreme </li>
               <li>French Fries</li>
-              <li>Poutine</li>
+
               <li>Beef Empanadas</li>
               <li>Mozzarella Sticks</li>
             </ul>
@@ -579,7 +581,6 @@ function Specialtyfood() {
               <li>Fried Chicken Sandwich</li>
               <li>Nacho Supreme </li>
               <li>French Fries</li>
-              <li>Poutine</li>
             </ul>
           </div>
         </div>
@@ -597,7 +598,7 @@ function Specialtyfood() {
               <li>The Burger (Ask for no Bacon Jam)</li>
               <li>Nacho Supreme </li>
               <li>French Fries</li>
-              <li>Poutine</li>
+
               <li>Beef Empanadas</li>
               <li>Mozzarella Sticks</li>
             </ul>
