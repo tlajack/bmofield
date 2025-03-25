@@ -82,7 +82,6 @@ function Specialtyfood() {
             <ul>
               <li>Porchetta Sandwich (Ask for Gluten Free Bun)</li>
               <li>Nacho Supreme (Ask for no Cheese Sauce)</li>
-              <li>Glazed Mushroom Focaccia (Ask for Gluten Free Bun)</li>
             </ul>
           </div>
         </div>
@@ -113,12 +112,10 @@ function Specialtyfood() {
               <li>Nacho Supreme (Ask for no Cheese Sauce)</li>
             </ul>
             <p>
-              <strong className={styles.strong}>
-                Nacho Cart (Section 125)
-              </strong>
+              <strong className={styles.strong}>Hogtown (Section 125)</strong>
             </p>
             <ul>
-              <li>Any Nacho offering (Ask for no Cheese Sauce)</li>
+              <li>Hot Dog (Ask for Gluten Free Bun)</li>
             </ul>
 
             <p>
@@ -126,8 +123,7 @@ function Specialtyfood() {
             </p>
             <ul>
               <li>Porchetta Sandwich (Ask for Gluten Free Bun)</li>
-              <li>Glazed Mushroom Focaccia (Ask for Gluten Free Bun)</li>
-              <li>Smoked Turkey Club (Ask for Gluten Free Bun)</li>
+              <li>Assorted Deli Sandwich (Ask for Gluten Free Bun)</li>
               <li>Smoked Meat Sandwich (Ask for Gluten Free Bun)</li>
             </ul>
 
@@ -136,8 +132,6 @@ function Specialtyfood() {
             </p>
             <ul>
               <li>French Fries</li>
-              <li>Curry Chips</li>
-              <li>Birria Fries</li>
             </ul>
 
             <p>
@@ -146,7 +140,7 @@ function Specialtyfood() {
             <ul>
               <li>Porchetta Sandwich (Ask for Gluten Free Bun)</li>
               <li>Glazed Mushroom Focaccia (Ask for Gluten Free Bun)</li>
-              <li>Smoked Turkey Club (Ask for Gluten Free Bun)</li>
+              <li>Assorted Deli Sandwich (Ask for Gluten Free Bun)</li>
               <li>Smoked Meat Sandwich (Ask for Gluten Free Bun)</li>
             </ul>
           </div>
@@ -173,7 +167,6 @@ function Specialtyfood() {
             <ul>
               <li>Porchetta Sandwich (Ask for Gluten Free Bun)</li>
               <li>Glazed Mushroom Focaccia (Ask for Gluten Free Bun)</li>
-              <li>Smoked Turkey Club (Ask for Gluten Free Bun)</li>
               <li>Smoked Meat Sandwich (Ask for Gluten Free Bun)</li>
             </ul>
           </div>
@@ -197,7 +190,6 @@ function Specialtyfood() {
             </p>
             <ul>
               <li>Vegan Stadium Dog</li>
-              <li>Mozzarella Sticks</li>
               <li>French Fries</li>
               <li>Nacho Supreme</li>
             </ul>
@@ -215,7 +207,7 @@ function Specialtyfood() {
               <strong className={styles.strong}>Panini (Section106)</strong>
             </p>
             <ul>
-              <li>Glazed Mushroom focaccia</li>
+              <li>Vegan Chorizo Burrito</li>
               <li>Nacho Supreme</li>
             </ul>
             <p>
@@ -252,21 +244,18 @@ function Specialtyfood() {
               <li>Nacho Supreme</li>
             </ul>
 
-            <p>
+            {/* <p>
               <strong className={styles.strong}>
                 Nacho Cart (Section 125)
               </strong>
             </p>
-            <ul>
-              <li>Nacho Supreme</li>
-              <li>Vegan Chorizo Nachos</li>
-            </ul>
+            <ul><li>Vegan Chorizo Nachos</li></ul> */}
 
             <p>
               <strong className={styles.strong}>Panini (Section 124)</strong>
             </p>
             <ul>
-              <li>Glazed Mushroom Focaccia </li>
+              <li>Vegan Chorizo Burrito </li>
             </ul>
 
             <p>
@@ -274,14 +263,14 @@ function Specialtyfood() {
             </p>
             <ul>
               <li>French Fries</li>
-              <li>Curry Chips</li>
+              <li>Vegan Poutine</li>
             </ul>
 
             <p>
               <strong className={styles.strong}>Panini (Section 108)</strong>
             </p>
             <ul>
-              <li>Glazed Mushroom Focaccia</li>
+              <li>Vegan Chorizo Burrito</li>
             </ul>
 
             <p>
@@ -318,14 +307,13 @@ function Specialtyfood() {
               <li>Vegan Stadium Dog</li>
               <li>French Fries</li>
               <li>Nacho Supreme</li>
-              <li>Mozzarella Sticks</li>
             </ul>
 
             <p>
               <strong className={styles.strong}>Panini (Section 207)</strong>
             </p>
             <ul>
-              <li>Glazed Mushroom Focaccia</li>
+              <li>Vegan Chorizo Burrito</li>
             </ul>
             <p>
               <strong className={styles.strong}>
@@ -380,8 +368,8 @@ function Specialtyfood() {
               <strong className={styles.strong}>Panini (Section106)</strong>
             </p>
             <ul>
-              <li>Glazed Mushroom Focaccia</li>
-              <li>Nacho Supreme (Ask for no Cheese Sauce or Crema))</li>
+              <li>Vegan Chorizo Burrito</li>
+              <li>Nacho Supreme (Ask for no Cheese Sauce or Crema)</li>
             </ul>
           </div>
         </div>
@@ -401,20 +389,18 @@ function Specialtyfood() {
               <li>French Fries</li>
             </ul>
 
-            <p>
+            {/* <p>
               <strong className={styles.strong}>
                 Nacho Cart (Section 125)
               </strong>
             </p>
-            <ul>
-              <li>Vegan Chorizo Nachos</li>
-            </ul>
+            <ul><li>Vegan Chorizo Nachos</li></ul> */}
 
             <p>
               <strong className={styles.strong}>Panini (Section 124)</strong>
             </p>
             <ul>
-              <li>Glazed Mushroom Focaccia</li>
+              <li>Vegan Chorizo Burrito</li>
               <li>Nachos (Ask for no Cheese Sauce or Crema)</li>
             </ul>
 
@@ -423,14 +409,14 @@ function Specialtyfood() {
             </p>
             <ul>
               <li>French Fries</li>
-              <li>Curry Chips</li>
+              <li>Vegan Poutine</li>
             </ul>
 
             <p>
               <strong className={styles.strong}>Panini (Section 108)</strong>
             </p>
             <ul>
-              <li>Glazed Mushroom Focaccia</li>
+              <li>Vegan Chorizo Burrito</li>
               <li>Nachos (Ask for no Cheese Sauce or Crema)</li>
             </ul>
 
@@ -466,7 +452,7 @@ function Specialtyfood() {
               <strong className={styles.strong}>Panini (Section 207)</strong>
             </p>
             <ul>
-              <li>Glazed Mushroom Focaccia</li>
+              <li>Vegan Chorizo Burrito</li>
               <li>Nacho Supreme (Ask for no Cheese Sauce or Crema)</li>
             </ul>
           </div>
@@ -490,12 +476,9 @@ function Specialtyfood() {
               </strong>
             </p>
             <ul>
-              <li>The Burger (Ask for no Bacon Jam)</li>
+              <li>The Burger (Ask for no bacon)</li>
               <li>Nacho Supreme </li>
               <li>French Fries</li>
-
-              <li>Beef Empanadas</li>
-              <li>Mozzarella Sticks</li>
             </ul>
 
             <p>
@@ -512,7 +495,6 @@ function Specialtyfood() {
               <strong className={styles.strong}>Panini (Section106)</strong>
             </p>
             <ul>
-              <li>Glazed Mushroom focaccia</li>
               <li>Nacho Supreme </li>
             </ul>
           </div>
@@ -528,12 +510,12 @@ function Specialtyfood() {
               </strong>
             </p>
             <ul>
-              <li>The Burger (Ask for no Bacon Jam)</li>
+              <li>The Burger (Ask for no bacon)</li>
               <li>Fried Chicken Sandwich</li>
               <li>Nacho Supreme </li>
             </ul>
 
-            <p>
+            {/* <p>
               <strong className={styles.strong}>
                 Nacho Cart (Section 125)
               </strong>
@@ -541,13 +523,12 @@ function Specialtyfood() {
             <ul>
               <li>Beef Nachos</li>
               <li>Vegan Chorizo Nachos</li>
-            </ul>
+            </ul> */}
 
             <p>
               <strong className={styles.strong}>Panini (Section 124)</strong>
             </p>
             <ul>
-              <li>Glazed Mushroom focaccia</li>
               <li>Braised Beef Grilled Cheese</li>
               <li>Smoked Meat Sandwich</li>
             </ul>
@@ -557,7 +538,7 @@ function Specialtyfood() {
             </p>
             <ul>
               <li>French Fries</li>
-              <li>Curry Chips</li>
+              <li>BBQ Brisket Poutine</li>
               <li>Jerk Chicken Poutine</li>
               <li>Smoked Meat Poutine</li>
             </ul>
@@ -566,7 +547,6 @@ function Specialtyfood() {
               <strong className={styles.strong}>Panini (Section 108)</strong>
             </p>
             <ul>
-              <li>Glazed Mushroom focaccia</li>
               <li>Braised Beef Grilled Cheese</li>
               <li>Smoked Meat Sandwich</li>
             </ul>
@@ -577,7 +557,7 @@ function Specialtyfood() {
               </strong>
             </p>
             <ul>
-              <li>The Burger (Ask for no Bacon Jam)</li>
+              <li>The Burger (Ask for no bacon)</li>
               <li>Fried Chicken Sandwich</li>
               <li>Nacho Supreme </li>
               <li>French Fries</li>
@@ -595,19 +575,15 @@ function Specialtyfood() {
               </strong>
             </p>
             <ul>
-              <li>The Burger (Ask for no Bacon Jam)</li>
+              <li>The Burger (Ask for no bacon)</li>
               <li>Nacho Supreme </li>
               <li>French Fries</li>
-
-              <li>Beef Empanadas</li>
-              <li>Mozzarella Sticks</li>
             </ul>
 
             <p>
               <strong className={styles.strong}>Panini (Section 207)</strong>
             </p>
             <ul>
-              <li>Glazed Mushroom focaccia</li>
               <li>Braised Beef Grilled Cheese</li>
               <li>Smoked Meat Sandwich </li>
             </ul>
