@@ -139,7 +139,6 @@ function Specialtyfood() {
             </p>
             <ul>
               <li>Porchetta Sandwich (Ask for Gluten Free Bun)</li>
-              <li>Glazed Mushroom Focaccia (Ask for Gluten Free Bun)</li>
               <li>Assorted Deli Sandwich (Ask for Gluten Free Bun)</li>
               <li>Smoked Meat Sandwich (Ask for Gluten Free Bun)</li>
             </ul>
@@ -166,7 +165,6 @@ function Specialtyfood() {
             </p>
             <ul>
               <li>Porchetta Sandwich (Ask for Gluten Free Bun)</li>
-              <li>Glazed Mushroom Focaccia (Ask for Gluten Free Bun)</li>
               <li>Smoked Meat Sandwich (Ask for Gluten Free Bun)</li>
             </ul>
           </div>
