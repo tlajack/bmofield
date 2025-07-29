@@ -477,6 +477,7 @@ function Specialtyfood() {
               <li>The Burger (Ask for no bacon)</li>
               <li>Nacho Supreme </li>
               <li>French Fries</li>
+              <li>Chicken Tenders &amp; Fries</li>
             </ul>
 
             <p>
@@ -487,6 +488,7 @@ function Specialtyfood() {
             <ul>
               <li>Fried Chicken Sandwich</li>
               <li>Nacho Supreme</li>
+              <li>Chicken Tenders &amp; Fries</li>
             </ul>
 
             <p>
@@ -511,6 +513,7 @@ function Specialtyfood() {
               <li>The Burger (Ask for no bacon)</li>
               <li>Fried Chicken Sandwich</li>
               <li>Nacho Supreme </li>
+              <li>Chicken Tenders &amp; Fries</li>
             </ul>
 
             {/* <p>
@@ -559,6 +562,7 @@ function Specialtyfood() {
               <li>Fried Chicken Sandwich</li>
               <li>Nacho Supreme </li>
               <li>French Fries</li>
+              <li>Chicken Tenders &amp; Fries</li>
             </ul>
           </div>
         </div>
@@ -576,6 +580,7 @@ function Specialtyfood() {
               <li>The Burger (Ask for no bacon)</li>
               <li>Nacho Supreme </li>
               <li>French Fries</li>
+              <li>Chicken Tenders &amp; Fries</li>
             </ul>
 
             <p>
