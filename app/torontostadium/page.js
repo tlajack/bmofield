@@ -238,7 +238,7 @@ function TorontoStadium() {
               <strong className={styles.strong}>Section 106</strong>
             </p>
             <ul>
-              <li>Tostitos Nacho Supreme (Request NO Cheese and NO Crema)</li>
+              <li>Tostitos Nacho Supreme</li>
             </ul>
             <p>
               <strong className={styles.strong}>
@@ -246,7 +246,7 @@ function TorontoStadium() {
               </strong>
             </p>
             <ul>
-              <li>Tostitos Nacho Supreme (Request NO Cheese and NO Crema)</li>
+              <li>Tostitos Nacho Supreme</li>
             </ul>
             <p>
               <strong className={styles.strong}>
@@ -254,7 +254,7 @@ function TorontoStadium() {
               </strong>
             </p>
             <ul>
-              <li>Tostitos Nacho Supreme (Request NO Cheese and NO Crema)</li>
+              <li>Tostitos Nacho Supreme</li>
             </ul>
             <p>
               <strong className={styles.strong}>Section 121</strong>
@@ -293,7 +293,7 @@ function TorontoStadium() {
             </p>
             <ul>
               <li>Vegan Deli Panini</li>
-              <li>Tostitos Nachos Supreme (Request NO Cheese Sauce or Crema)</li>
+              <li>Tostitos Nachos Supreme</li>
             </ul>
             <p>
               <strong className={styles.strong}>Section 105</strong>
@@ -309,7 +309,7 @@ function TorontoStadium() {
               </strong>
             </p>
             <ul>
-              <li>Tostitos Nachos Supreme (Request NO Cheese Sauce or Crema)</li>
+              <li>Tostitos Nachos Supreme</li>
             </ul>
             <p>
               <strong className={styles.strong}>
@@ -317,16 +317,14 @@ function TorontoStadium() {
               </strong>
             </p>
             <ul>
-              <li>Tostitos Nachos Supreme (Request NO Cheese Sauce or Crema)</li>
+              <li>Tostitos Nachos Supreme</li>
             </ul>
             <p>
               <strong className={styles.strong}>Section 130</strong>
             </p>
             <ul>
               <li>Vegan Deli Panini</li>
-              <li>
-                Tostitos Nacho Supreme (Request NO Cheese and NO Crema)
-              </li>
+              <li>Tostitos Nacho Supreme</li>
             </ul>
             <p>
               <strong className={styles.strong}>Section 119</strong>
@@ -363,9 +361,7 @@ function TorontoStadium() {
             </p>
             <ul>
               <li>Vegan Deli Panini</li>
-              <li>
-                Tostitos Nacho Supreme (Request NO Cheese Sauce and NO Crema)
-              </li>
+              <li>Tostitos Nacho Supreme</li>
             </ul>
             <p>
               <strong className={styles.strong}>Section 210</strong>
@@ -557,6 +553,7 @@ function TorontoStadium() {
             </p>
             <ul>
               <li>Charbroiled Cheeseburger</li>
+              <li>Pickle Fried Chicken Sandwich</li>
               <li>French Fries</li>
               <li>Chicken Tenders &amp; Fries</li>
             </ul>
