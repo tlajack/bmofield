@@ -18,7 +18,9 @@ function TorontoStadium() {
   return (
     <div className={styles.container}>
       <div className={styles.topHeader}>
-        <h1 className={styles.headerTitle}>Toronto Stadium Specialty Food Guide 2026</h1>
+        <h1 className={styles.headerTitle}>
+          Toronto Stadium Specialty Food Guide 2026
+        </h1>
       </div>
       <h1 className={styles.h1}>
         GLUTEN FRIENDLY, VEGETARIAN, VEGAN &amp; HALAL OFFERINGS
@@ -32,8 +34,8 @@ function TorontoStadium() {
       <h2 className={styles.h2}>Food Allergen Notice</h2>
       <p className={styles.notice}>
         Allergens are carefully monitored in our facility, and while we follow
-        strict safety procedures, there is a possibility that cross-contamination
-        may occur.
+        strict safety procedures, there is a possibility that
+        cross-contamination may occur.
       </p>
       <p className={styles.notice}>
         Please inform our Concession Attendants of any allergy upon placing your
@@ -76,7 +78,9 @@ function TorontoStadium() {
             </p>
             <ul>
               <li>Tostitos Nacho Supreme (Request NO Cheese Sauce)</li>
-              <li>Tostitos Piri Piri Chicken Nacho (Request NO Cheese Sauce)</li>
+              <li>
+                Tostitos Piri Piri Chicken Nacho (Request NO Cheese Sauce)
+              </li>
             </ul>
           </div>
         </div>
@@ -423,10 +427,9 @@ function TorontoStadium() {
           </div>
           <div className={styles.content}>
             <p>
-              <strong className={styles.strong}>Stand 3 (Section 121)</strong>
+              <strong className={styles.strong}>Section 121</strong>
             </p>
             <ul>
-              <li>Vegan Hot Dog</li>
               <li>French Fries</li>
             </ul>
             <p>
@@ -480,18 +483,14 @@ function TorontoStadium() {
             </p>
             <ul>
               <li>Vegan Deli Panini</li>
-              <li>
-                Tostitos Nacho Supreme (Request NO Cheese Sauce or Crema)
-              </li>
+              <li>Tostitos Nacho Supreme (Request NO Cheese Sauce or Crema)</li>
             </ul>
             <p>
               <strong className={styles.strong}>Section 115</strong>
             </p>
             <ul>
               <li>Vegan Deli Panini</li>
-              <li>
-                Tostitos Nacho Supreme (Request NO Cheese Sauce or Crema)
-              </li>
+              <li>Tostitos Nacho Supreme (Request NO Cheese Sauce or Crema)</li>
             </ul>
             <p>
               <strong className={styles.strong}>Section 130</strong>
@@ -521,9 +520,7 @@ function TorontoStadium() {
             </p>
             <ul>
               <li>Vegan Deli Panini</li>
-              <li>
-                Tostitos Nacho Supreme (Request NO Cheese Sauce or Crema)
-              </li>
+              <li>Tostitos Nacho Supreme (Request NO Cheese Sauce or Crema)</li>
             </ul>
           </div>
         </div>
